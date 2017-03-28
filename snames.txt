@@ -1,0 +1,78 @@
+ace of cups
+ace of pentacles
+ace of swords
+ace of wands
+chariot
+death
+devil
+eight of cups
+eight of pentacles
+eight of swords
+eight of wands
+emperor
+empress
+five of cups
+five of pentacles
+five of swords
+five of wands
+fool
+four of cups
+four of pentacles
+four of swords
+four of wands
+hanged man
+hermit
+hierophant
+high priestess
+judgement
+justice
+king of cups
+king of pentacles
+king of swords
+king of wands
+knight of cups
+knight of pentacles
+knight of swords
+knight of wands
+lovers
+magician
+moon
+nine of cups
+nine of pentacles
+nine of swords
+nine of wands
+page of cups
+page of pentacles
+page of swords
+page of wands
+queen of cups
+queen of pentacles
+queen of swords
+queen of wands
+seven of cups
+seven of pentacles
+seven of swords
+seven of wands
+six of cups
+six of pentacles
+six of swords
+six of wands
+star
+strength
+sun
+temperance
+ten of cups
+ten of pentacles
+ten of swords
+ten of wands
+three of cups
+three of pentacles
+three of swords
+three of wands
+tower
+two of cups
+two of pentacles
+two of swords
+two of wands
+wheel of fortune
+world
